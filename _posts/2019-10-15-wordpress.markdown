@@ -4,9 +4,8 @@ title:  "WordPress"
 date:   2019-10-15 21:36:44 -0300
 categories: learnbr wordpress
 ---
-
 <p align="center">
-<img src="https://github.com/learnbr/wordpress/raw/master/logo.png" width="500" alt="Aprenda WordPress">
+<img src="/logo.png" width="500" alt="Aprenda WordPress">
 </p>
 <h1 align="center">Aprenda WordPress</h1>
 <p align="center">Central de conhecimento sobre desenvolvimento WordPress<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
