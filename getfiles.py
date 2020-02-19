@@ -2,7 +2,7 @@ import requests
 
 javascript = requests.get('https://raw.githubusercontent.com/learnbr/javascript/master/README.md')
 python = requests.get('https://raw.githubusercontent.com/learnbr/python/master/README.md')
-htmlcss = requests.get('https://raw.githubusercontent.com/learnbr/htmlcss/master/README.md')
+htmlcss = requests.get('https://raw.githubusercontent.com/learnbr/html-css/master/README.md')
 swift = requests.get('https://raw.githubusercontent.com/learnbr/swift/master/README.md')
 wordpress = requests.get('https://raw.githubusercontent.com/learnbr/wordpress/master/README.md')
 java = requests.get('https://raw.githubusercontent.com/learnbr/java/master/README.md')
