@@ -10,7 +10,6 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Procure o que deseja aprender :)" }}</h2>
     <ul>
       {%- for post in site.posts -%}
       <li>
